@@ -1,4 +1,4 @@
-# Construct a single-cycle RISC-V CPU with Chisel
+# Construct a  RISC-V CPU with Chisel
 
 > [!WARNING]
 > Please be aware that the Scala code in this repository is not entirely complete, as the instructor has omitted certain sections for students to work on independently.
@@ -9,3 +9,4 @@ Our goal is to create a RISC-V CPU that prioritizes simplicity while assuming a 
 * Implementation in Chisel.
 * RV32I instruction set support.
 * Execution of programs compiled from the C programming language.
+* Successful completion of RISC-V Architectural Tests, also known as riscv-arch-test.
